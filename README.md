@@ -2,7 +2,7 @@
 
 
 ## Objective
-From a random set of geographic coordinates we are looking to obtain possible cities that a user could choose to travel to based on temperature and geographic preferences.
+From a random set of geographic coordinates we are looking to obtain possible cities that a user could choose to travel to, based on temperature and geographic preferences.
 
 
 ## Process
