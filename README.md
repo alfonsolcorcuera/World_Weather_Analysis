@@ -22,7 +22,7 @@ From a random set of geographic coordinates we are looking to obtain possible ci
 ### Create a Customer Travel Destinations Map
 1. With data from the *Weather_DataBase* folder we filtered out the cities from our dataframe by using two input statements that prompt the user to enter their minimum and maximum temperature criteria for their vacation
 2. We performed an API call with Google Maps and retrieved the name of a hotel in the selected cities
-3. We generated map with pop-up markers for each city on the map. Each pop-up marker includes Hotel Name, City, Country Code and Current Weather Conditions. Below you will find the output of our analysis, which is also in the *Vacation_Search* folder.
+3. We generated a map with pop-up markers for each selected city. Each pop-up marker includes Hotel Name, City, Country Code and Current Weather Conditions. Below you will find the output of our analysis, which is also in the *Vacation_Search* folder.
 
 ![](WeatherPy_vacation_map.PNG)
 
