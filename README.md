@@ -16,7 +16,7 @@ From a random set of geographic coordinates we are looking to obtain possible ci
    - Percent cloudiness
    - Wind speed
    - Weather
-3. With the retrieved data we generated a CSV file with 709 cities and their respective key weather data. Please refer to the *Weather_DataBase* folder for more information.
+3. With the retrieved data we generated a CSV file with 709 cities and their respective key weather data - the coordinates which were not selected are presumed to be located in inhospitable places -. Please refer to the *Weather_DataBase* folder for more information.
 
 
 ### Create a Customer Travel Destinations Map
@@ -34,7 +34,7 @@ From a random set of geographic coordinates we are looking to obtain possible ci
 ![](WeatherPy_travel_map.PNG)
 
 
-3. We generated a map with pop-up markers for the chosen cities.Below you will find the output of our analysis.
+3. We generated a map with pop-up markers for the chosen cities. Below you will find the output of our analysis.
 
 ![](WeatherPy_travel_map_markers.PNG)
 
